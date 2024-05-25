@@ -1,0 +1,3 @@
+# Exact Inverse Models for Evaluating Nonlinear Digital Predistortion Techniques (Source/Implementation)
+
+This repository contains the source code of the algorithm(s)/implementation used to produce the results in the paper "Exact Inverse Models for Evaluating Nonlinear Digital Predistortion Techniques", to be presented at the 2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2024).
